@@ -1,4 +1,4 @@
-Título: Projeto de GIF Animado em CSS
+Título: Animação em CSS
 <img src= "    "> 
 <br><br>
 
