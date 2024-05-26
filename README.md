@@ -1,5 +1,5 @@
 Título: Animação em CSS
-<img src= "    "> 
+<img src= "https://eduardobatistamatos.github.io/Anima-2/"> 
 <br><br>
 
 Descrição:
@@ -19,7 +19,7 @@ HTML5: Para a estruturação básica do conteúdo.
 CSS3: Para estilização e animação dos elementos.
 
 
-LINK DO CÓDIGO RODANDO: 
+LINK DO CÓDIGO RODANDO: https://eduardobatistamatos.github.io/Anima-2/
 
 
 LINK DO CODEPEN: https://codepen.io/Dudu-Batista/pens/public
