@@ -1,6 +1,8 @@
+
+![Animação2](https://github.com/EduardoBatistaMatos/Anima-2/assets/162808278/36e5179b-c4f0-4efd-9975-5d4b937eca95)
+
+
 Título: Animação em CSS
-<img src= "https://eduardobatistamatos.github.io/Anima-2/"> 
-<br><br>
 
 Descrição:
 
